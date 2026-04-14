@@ -1,1 +1,1 @@
-The Java Student Rating System is a program designed to evaluate and manage student performance based on their grades. The system allows users to input student information such as name and scores, then automatically computes the average and assigns a corresponding rating or remark.
+The system processes the entered data by calculating the average rating for each student. Based on this computed average, it automatically assigns a corresponding feedback category. This helps in quickly interpreting the overall performance or satisfaction level of each student.
